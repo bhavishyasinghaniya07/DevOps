@@ -12,12 +12,12 @@ class Prime {
 
   public static void main(String args[]) {
     if (isPrime(11))
-      System.out.println(" true");
+      System.out.println(" true , The number is Prime");
     else
-      System.out.println(" false");
+      System.out.println(" false , The number is non-Prime");
     if (isPrime(15))
-      System.out.println(" true");
+      System.out.println(" true , The number is Prime");
     else
-      System.out.println(" false");
+      System.out.println(" false , The number is non-Prime");
   }
 }
